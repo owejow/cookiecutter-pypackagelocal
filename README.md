@@ -4,4 +4,3 @@ Cookiecutter template for a python package. [cookiecutter](https://github.com/au
 
 Package template adapted from:
  [cookiecutter-pypackage](https://github.com/Nekroze/cookiecutter-pypackage)
-
