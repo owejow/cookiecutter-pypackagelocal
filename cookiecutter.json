@@ -1,0 +1,12 @@
+{
+	"full_name": "Firstname Lastname",
+	"email": "example.email.com",
+	"repo_path": "http://path-to-repository",
+	"repo_username": "username",
+	"project_name": "Name of Project",
+	"repo_name": "name_of_project",
+	"project_short_description": "short description of the project",
+	"release_date": "2019-02-10",
+	"year": "2019",
+	"version": "0.1.0"
+}
